@@ -19,9 +19,10 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 
-import javax.annotation.Resource;
 import java.text.MessageFormat;
 import java.util.*;
+
+import jakarta.annotation.Resource;
 
 /**
  * core job action for xxl-job
